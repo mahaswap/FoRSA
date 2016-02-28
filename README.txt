@@ -2,6 +2,7 @@
 # Written by Swapnil MAHAJAN on 28 Feb. 2016
 # FoRSA
 FoRSA: Fold Recognition using a Structural Alphabet.
+Webserver available at: http://www.bo-protscience.fr/forsa/
 
 Fold recognition is an important step in structural annotation of proteins with no homologue of known 3-D structure identified using sequence-search methods. FoRSA provides a unique fold recognition algorithm which is based on calculation of conditional probability for the amino acid sequence of a protein to fit to a particular fold.
 
